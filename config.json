@@ -1,0 +1,6 @@
+{
+    "google_cloud_credentials_path": "path/to/your/google_cloud_credentials.json",
+    "tts_language_code": "en-US",
+    "tts_voice_name": "en-US-Wavenet-D"
+  }
+  
